@@ -1,0 +1,53 @@
+.section-footer {
+    background-color: #2F303A;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-start;
+}
+.logo-footer-box {
+    display: inline-block;
+    margin-top: 60px;
+    margin-bottom: 0;
+}
+.address-box {
+    padding-bottom: 60px;
+    width: 231px;
+}
+
+.join-links-box {
+    margin-top: 72px;
+    margin-left: 70px;
+}
+
+.join-title {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.17;
+    Letter-spacing: 0.03em;
+
+    color: #FFFFFF
+}
+
+.footer-join-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 20px;
+}
+.sign-box {
+    margin-top: 72px;
+    margin-left: 93px
+}
+.send-label__title {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.17;
+    Letter-spacing: 0.03em;
+
+    color: #FFFFFF
+}
