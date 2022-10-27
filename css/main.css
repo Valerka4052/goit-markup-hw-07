@@ -583,7 +583,7 @@ body.no-scroll {
   -webkit-appearance: none;
   appearance: none;
 }
-.modal-form__checkbox:not(:checked) ~ .modal-form__checkbox__check-icon {
+.modal-form__checkbox:not(:checked) ~ .modal-form__check-icon {
   background-color: #FFFFFF;
   color: #FFFFFF;
   border: 2px solid #212121;
