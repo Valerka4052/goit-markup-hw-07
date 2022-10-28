@@ -208,7 +208,7 @@ body.no-scroll {
   font-size: 16px;
   line-height: 1.6;
   color: var(--title-text-color);
-  background-color: #FFFFFF;
+  background-color: #F5F4FA;
   -webkit-transition: background-color var(--animation), color var(--animation), -webkit-box-shadow var(--animation);
   transition: background-color var(--animation), color var(--animation), -webkit-box-shadow var(--animation);
   transition: box-shadow var(--animation), background-color var(--animation), color var(--animation);
@@ -376,7 +376,7 @@ body.no-scroll {
   background-color: var(--accent-color);
 }
 
-.our-team-list {
+.our-team__list {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -558,6 +558,7 @@ body.no-scroll {
   margin-top: 4px;
   border-radius: 4px;
   border: 1px solid rgba(33, 33, 33, 0.2);
+  resize: none;
 }
 .modal-form__comment {
   height: 138px;
@@ -845,7 +846,7 @@ body.no-scroll {
   background-color: #F5F4FA;
 }
 
-.our-team-title {
+.our-team__title {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
